@@ -1,0 +1,33 @@
+* {
+	margin: 20px;
+	padding: 20px;
+	}
+figure{
+    margin:40px;
+    padding: 40px;
+}
+
+div, article, section, header, footer, nav, figure, li {
+    position : relative;
+    }
+a {
+    border-bottom : 1px solid rgba(0, 0, 0, 0.2);
+    color : #333;
+    text-decoration : none;
+    transition : border-color 0.2s ease-in-out;
+    }
+
+h1, h3{
+    font-family: Impact;
+    font-style: normal;
+}
+
+img{
+    align-content: center;
+}
+
+#quote{
+    background-color: grey;
+    color:white;
+    margin: 10;
+}
