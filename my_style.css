@@ -38,6 +38,10 @@ img{
     margin: 10;
 }
 
+.fancy{
+    font-family: cursive;
+}
+
 footer{
     padding: 1cm;
     color:grey;
